@@ -5,6 +5,15 @@ Gender = [
     ("Female","Female")
 ]
 
+Marital_Status = [
+    ("Unmarried","Unmarried"),
+    ("Married","Married"),
+    ("Divorced","Divorced"),
+    ("Widowed","Widowed"),
+    ("Waiting for Divorce","Waiting for Divorce")
+]
+
+
 Mother_Tongue = [
     ("Tamil", "Tamil"),
     ("Telugu", "Telugu"),
@@ -75,13 +84,68 @@ Height = [
     ("6 feet 10 inch","6 feet 10 inch"),
     ("6 feet 11 inch","6 feet 11 inch"),
     ("7 feet > ","7 feet >"),
+]
 
+Star = [
+    ("Ashwini","Ashwini"),
+    ("Bharani","Bharani"),
+    ("Krittika","Krittika"),
+    ("Rohini","Rohini"),
+    ("Mrighasira","Mrighasira"),
+    ("Thiruvadhirai","Thiruvadhirai"),
+    ("Punarpoosam","Punarpoosam"),
+    ("Poosam","Poosam"),
+    ("Ayilyam","Ayilyam"),
+    ("Magam","Magam"),
+    ("Pooram","Pooram"),
+    ("Uthiram","Uthiram"),
+    ("Astham","Astham"),
+    ("Chitrai","Chitrai"),
+    ("Swathi","Swathi"),
+    ("Visagam","Visagam"),
+    ("Ausham","Ausham"),
+    ("Kettai","Kettai"),
+    ("Moolam","Moolam"),
+    ("Pooradam","Pooradam"),
+    ("Uthradam","Uthradam"),
+    ("Thiruvonam","Thiruvonam"),
+    ("Avittam","Avittam"),
+    ("Sathayam","Sathayam"),
+    ("Poorattathi","Poorattathi"),
+    ("Utharattadhi","Utharattadhi"),
+    ("Revathi","Revathi"),
 ]
 
 
+Raasi = [
+    ("Mesam","Mesam"),
+    ("Rishbam","Rishbam"),
+    ("Mithunam","Mithunam"),
+    ("Kadagam","Kadagam"),
+    ("Simmam","Simmam"),
+    ("Kanni","Kanni"),
+    ("Thulam","Thulam"),
+    ("Viruchagam","Viruchagam"),
+    ("Dhanusu","Dhanusu"),
+    ("Magaram","Magaram"),
+    ("Kumbam","Kumbam"),
+    ("Meenam","Meenam"),
+]
 
-
-
+Lagnam = [
+    ("Mesam","Mesam"),
+    ("Rishbam","Rishbam"),
+    ("Mithunam","Mithunam"),
+    ("Kadagam","Kadagam"),
+    ("Simmam","Simmam"),
+    ("Kanni","Kanni"),
+    ("Thulam","Thulam"),
+    ("Viruchagam","Viruchagam"),
+    ("Dhanusu","Dhanusu"),
+    ("Magaram","Magaram"),
+    ("Kumbam","Kumbam"),
+    ("Meenam","Meenam"),
+]
 
 
 Physical_Status = [

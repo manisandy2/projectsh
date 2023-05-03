@@ -1,8 +1,11 @@
 from rest_framework import serializers
-from .models import Basic_Information
+from .models import BasicInformation
 
 
 class BasicInformationSerializers(serializers.ModelSerializer):
     class Meta:
-        model = Basic_Information
+        model = BasicInformation
         fields = "__all__"
+
+
+

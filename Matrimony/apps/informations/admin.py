@@ -1,6 +1,7 @@
 from django.contrib import admin
-from .models import Basic_Information
+from .models import BasicInformation,Caste,SubCaste
 
-admin.site.register(Basic_Information)
-# admin.site.register(Height)
-# admin.site.register(Physical_Information)
+admin.site.register(BasicInformation)
+admin.site.register(Caste)
+admin.site.register(SubCaste)
+
